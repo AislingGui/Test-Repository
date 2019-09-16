@@ -4,4 +4,4 @@ rvm:
 install:
   - gem install mdl
 script:
-  - mdl README.md
+  - mdl *.md
